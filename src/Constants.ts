@@ -93,13 +93,17 @@ export const BOARDS_INFO: Record<string, {title: string, author: string, describ
 		`
 	},
 	8: {
-		title: "《从今往后》",
+		title: "《感谢参观我们的婚纱展馆》",
 		author: "Lolita",
 		describe: `
-		从今往后 <br>
-		夏有凉风 <br>
-		冬有暖阳 <br>
-		我有我们
+		长这么大 <br>
+		我第一次收到这么多红包 <br>
+		感谢来参加参观的所有网友 <br>
+		谢谢你们 <br>
+		<br>
+		祝：<br>
+		恭喜发财，大吉大利！<br>
+		希望新的一年里，你能有意想不到的收获和成就！
 		`
 	},
 	9: {
